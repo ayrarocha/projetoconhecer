@@ -114,5 +114,18 @@ footer {
 .animate-panda1, .animate-panda2 {
     animation-delay: 0.5s; 
 }
-
+@media (max-width: 768px) {
+    .conteudo {
+        width: 80%;
+        margin: 50px auto;
+    }
+    .exemplo {
+        width: 100%;
+        height: auto;
+    }
+    .contato {
+        width: 80%;
+        margin: 50px auto;
+    }
+}
 
