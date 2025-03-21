@@ -115,6 +115,9 @@ footer {
     animation-delay: 0.5s; 
 }
 @media (max-width: 768px) {
+    eader {
+        height: auto;
+    }
     .conteudo {
         width: 80%;
         margin: 50px auto;
