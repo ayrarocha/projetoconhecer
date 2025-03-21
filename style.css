@@ -115,8 +115,15 @@ footer {
     animation-delay: 0.5s; 
 }
 @media (max-width: 768px) {
-    eader {
+   header {
         height: auto;
+        padding: 20px;
+    }
+    .apresentacao {
+        font-size: 30px;
+    }
+    .subtitulo {
+        font-size: 15px;
     }
     .conteudo {
         width: 80%;
